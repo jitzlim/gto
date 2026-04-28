@@ -1,0 +1,6 @@
+[
+  { "spot": "BTN vs BB SRP", "combo": "A5s", "raise": 72, "call": 24, "fold": 4 },
+  { "spot": "CO vs BTN 3BP", "combo": "KQo", "raise": 14, "call": 66, "fold": 20 },
+  { "spot": "SB vs BB SRP", "combo": "76s", "raise": 35, "call": 52, "fold": 13 },
+  { "spot": "HJ vs CO SRP", "combo": "QTs", "raise": 41, "call": 45, "fold": 14 }
+]
